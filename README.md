@@ -30,4 +30,15 @@ https://drive.google.com/drive/folders/1OSKWcv7hmA1oOwcYm4BTKJHX5Zw8OxTF?usp=sha
 ```
 
 
+## Citation
 
+If you find our model is useful in your research, please consider cite our paper: [Inductive Learning on Commonsense Knowledge Graph Completion](https://arxiv.org/pdf/2009.09263.pdf):
+
+```
+@article{wang2020inductive,
+  title={Inductive Learning on Commonsense Knowledge Graph Completion},
+  author={Wang, Bin and Wang, Guangtao and Huang, Jing and You, Jiaxuan and Leskovec, Jure and Kuo, C-C Jay},
+  journal={arXiv preprint arXiv:2009.09263},
+  year={2020}
+}
+```
