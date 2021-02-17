@@ -6,6 +6,10 @@ Requirement:
 - numpy
 - transformers=2.9.1
 
+## Dataset files and pre-computed embeddings
+
+Some files are too large to upload. Please find it through the following link:
+https://drive.google.com/drive/folders/1OSKWcv7hmA1oOwcYm4BTKJHX5Zw8OxTF?usp=sharing
 
 ## To reproduce the result on ConceptNet-82K
 
