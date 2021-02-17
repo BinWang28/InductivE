@@ -1,6 +1,6 @@
 # InductivE
 
-Requirement:
+Requirements:
 - pytorch=1.4.0
 - dgl-cuda10.1
 - numpy
