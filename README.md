@@ -1,5 +1,8 @@
 # InductivE: Inductive Learning on Commonsense Knowledge Graph Completion
 
+<p align="center">
+<img src="1.png" alt="Paris" class="center" width="500">
+</p>
 
 ## Requirements:
 - pytorch=1.4.0
