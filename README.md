@@ -4,6 +4,12 @@
 <img src="img/1.png" alt="img/1.png" class="center" width="300">
 </p>
 
+In this repo, we provide the following things:
+1. Original dataset for CKG completion. (CN-100K, CN-82K, ATOMIC)
+2. New dataset splits for inducitve CKG completion evaluation. (CN-82K-Ind, ATOMIC-Ind)
+3. Example code to train and evaluate.
+
+
 ## Requirements:
 - pytorch=1.4.0
 - dgl-cuda10.1
