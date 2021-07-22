@@ -13,10 +13,13 @@ For more details, please refer to our paper: [Inductive Learning on Commonsense 
 
 # Datasets
 
-All datasets are provided in this Repo. You can find the five datasets in folder 'dataset_only'. Each dataset contains three files corresponding to 'train', 'validation', and 'test'.
+All datasets are provided in this Repo. You can find the five datasets in folder ['dataset_only'](./dataset_only). Each dataset contains three files corresponding to 'train', 'validation', and 'test'.
 
 For ATOMIC-related datasets, the triples are organized as 'head-relation-tail'.
-For CN-related datasets, the triplets are organized as 'relation-head-tail'. Please note when reading the dataset.
+
+For CN-related datasets, the triplets are organized as 'relation-head-tail'. 
+
+Please note when reading the dataset.
 
 # Example Code to Train and Evaluate
 
