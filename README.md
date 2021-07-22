@@ -11,6 +11,10 @@ In this repo, we mainly provide the following things:
 
 For more details, please refer to our paper: [Inductive Learning on Commonsense Knowledge Graph Completion (IJCNN-2021)](https://arxiv.org/pdf/2009.09263.pdf).
 
+# Dataset
+R
+
+# Example Code to Train and Evaluate
 ## Requirements:
 - pytorch=1.4.0
 - dgl-cuda10.1
