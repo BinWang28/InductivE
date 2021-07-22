@@ -26,7 +26,7 @@ For CN-related datasets, the triplets are organized as 'relation-head-tail'.
 ## Model
 
 <p align="center">
-<img src="img/2.png" alt="img/2.png" class="center" width="500">
+<img src="img/2.png" alt="img/2.png" class="center" width="900">
 </p>
 
 ## Requirements:
