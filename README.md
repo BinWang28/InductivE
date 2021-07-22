@@ -91,6 +91,6 @@ If you find our model is useful in your research, please consider cite our paper
   title={Inductive Learning on Commonsense Knowledge Graph Completion},
   author={Wang, Bin and Wang, Guangtao and Huang, Jing and You, Jiaxuan and Leskovec, Jure and Kuo, C-C Jay},
   booktitle={International Joint Conference on Neural Networks (IJCNN)},
-  year={2020}
+  year={2021}
 }
 ```
