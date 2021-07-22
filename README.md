@@ -13,16 +13,21 @@ For more details, please refer to our paper: [Inductive Learning on Commonsense 
 
 # Datasets
 
-All datasets are provided in this Repo. You can find the five datasets in folder ['dataset_only'](./dataset_only). Each dataset contains three files corresponding to 'train', 'validation', and 'test'.
+All datasets are provided in this Repo. 
+
+You can find the five datasets in folder ['dataset_only'](./dataset_only). Each dataset contains three files corresponding to 'train', 'validation', and 'test'.
 
 For ATOMIC-related datasets, the triples are organized as 'head-relation-tail'.
 
 For CN-related datasets, the triplets are organized as 'relation-head-tail'. 
 
-Please note when reading the dataset.
-
 # Example Code to Train and Evaluate
 
+## Model
+
+<p align="center">
+<img src="img/2.png" alt="img/2.png" class="center" width="500">
+</p>
 
 ## Requirements:
 - pytorch=1.4.0
@@ -32,7 +37,8 @@ Please note when reading the dataset.
 
 ## Dataset files and pre-computed embeddings
 
-Some files are too large to upload. Please find it through the following link:
+To run our model, we pre-extract embedding features for each node using BERT and fastText methods. To download the feature files:
+
 https://drive.google.com/drive/folders/1OSKWcv7hmA1oOwcYm4BTKJHX5Zw8OxTF?usp=sharing
 
 ## To reproduce the result on ConceptNet-82K
