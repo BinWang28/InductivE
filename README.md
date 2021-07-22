@@ -9,7 +9,7 @@ In this repo, we mainly provide the following things:
 2. New dataset splits for inducitve CKG completion evaluation. (CN-82K-Ind, ATOMIC-Ind)
 3. Example code to train and evaluate. (Textual feature + GCN (with iterative graph densifier) + ConvE)
 
-For more details, please refer to our paper: [Inductive Learning on Commonsense Knowledge Graph Completion (IJCNN-2021)](https://arxiv.org/pdf/2009.09263.pdf).
+For more details, please refer to our paper: [Inductive Learning on Commonsense Knowledge Graph Completion ](https://arxiv.org/pdf/2009.09263.pdf) published on [IJCNN-2021](https://www.ijcnn.org/).
 
 # Datasets
 
