@@ -1,6 +1,7 @@
-# InductivE (Under Preparation)
+# InductivE: Inductive Learning on Commonsense Knowledge Graph Completion
 
-Requirements:
+
+## Requirements:
 - pytorch=1.4.0
 - dgl-cuda10.1
 - numpy
