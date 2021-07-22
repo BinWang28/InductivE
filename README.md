@@ -70,9 +70,7 @@ To run our model, we pre-extract embedding features for each node using BERT and
     bash train.sh atomic 500 saved/saved_ckg_model data/saved_entity_embedding/atomic/at_bert_emb_dict.pkl 500 256 100 ConvTransE 10 1234 1e-20 0.20 0.20 0.20 0.0001 1024 Adam 5 300 RWGCN_NET 50000 1324 data/saved_entity_embedding/atomic/at_fasttext_dict.pkl 300 0.2 3 100 50 0.1
 ```
 
-<span style="color:blue">Note: *This is Blue italic.* text </span>
-
-<span style="color: red;">text</span>
+* Note that: 
 
 
 ## Citation
