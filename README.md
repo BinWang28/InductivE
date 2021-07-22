@@ -1,7 +1,7 @@
 # InductivE: Inductive Learning on Commonsense Knowledge Graph Completion
 
 <p align="center">
-<img src="img/1.png" alt="img/1.png" class="center" width="500">
+<img src="img/1.png" alt="img/1.png" class="center" width="300">
 </p>
 
 ## Requirements:
