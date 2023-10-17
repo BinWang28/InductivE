@@ -47,7 +47,7 @@ Our model contains several steps:
 
 To run our model, we pre-extract embedding features for each node using BERT and fastText methods. To download the feature files:
 
-[Huggingface]([https://drive.google.com/drive/folders/1OSKWcv7hmA1oOwcYm4BTKJHX5Zw8OxTF?usp=sharing](https://huggingface.co/datasets/binwang/InductivE-embeddings))
+[Huggingface](https://huggingface.co/datasets/binwang/InductivE-embeddings)
 
 
 ## To reproduce the result on ConceptNet-82K
