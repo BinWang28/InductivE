@@ -1,4 +1,4 @@
-# InductivE: Inductive Learning on Commonsense Knowledge Graph Completion (Overview)
+# InductivE: Inductive Learning on Commonsense Knowledge Graph Completion (Depreciated, No longer maintained)
 
 <p align="center">
 <img src="img/1.png" alt="img/1.png" class="center" width="300">
